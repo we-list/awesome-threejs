@@ -1,6 +1,6 @@
 # Awesome-Threejs
 
-<img width="110" height="20" src="https://cdn.rawgit.com/fritx/awesome-threejs/master/awesome.svg">
+<a href="https://github.com/sindresorhus/awesome"><img width="110" height="20" src="https://cdn.rawgit.com/fritx/awesome-threejs/master/awesome.svg"></a>&nbsp;&nbsp;<a href="https://github.com/fritx/awesome-threejs"><img width="90" height="20" src="https://cdn.rawgit.com/fritx/awesome-threejs/master/prs-welcome.svg"></a>
 
 - [three.js](https://github.com/mrdoob/three.js)
 - [threejs.org/examples](http://threejs.org/examples/)
