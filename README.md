@@ -20,6 +20,10 @@
 
 ---
 
+- [Parametric Architecture Configurator](https://github.com/zfryrgnci/parametric-arch-config) - Real-time 3D web configurator for manipulating procedural architecture via mathematical meshes.
+
+---
+
 - [react-three](https://github.com/Izzimach/react-three)
 - [react-three-renderer](https://github.com/toxicFork/react-three-renderer)
 - [react-threejs](https://github.com/fritx/react-threejs)
